@@ -26,3 +26,4 @@ The text files must contain the following line for every video:
 If no title is specified, the filename (without extension) is used as title.
 Default language is english (en).
 
+(you have to install curl first to make it work)
